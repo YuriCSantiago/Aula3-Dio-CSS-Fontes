@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,500;1,300;1,600&display=swap');
+
+* {
+    font-family: "Times New Roman";
+}
+
+@font-face {
+    font-family: Roboto;
+    src:url('../fonts/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: QualquerNome;
+    src: url('../fonts/Roboto-Italic.ttf');
+    font-weight: bold;
+}
+
+p {
+    font-family: Roboto;
+    font-weight: lighter;
+}
+
+h1 {
+    font-family: QualquerNome;
+}
